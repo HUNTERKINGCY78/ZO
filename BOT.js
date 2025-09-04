@@ -13,7 +13,7 @@ const WHATSAPP_URLS = [
 ];
 
 // Data Default
-const DEFAULT_EMAIL = 'hozooimut@gmail.com';
+const DEFAULT_EMAIL = 'kakov43163@tieal.com';
 const DEFAULT_MESSAGE = (phone) => `Tim Dukungan WhatsApp, Saya Mendapat Keluhan Terkait Akun WhatsApp Saya, Akun WhatsApp Saya Terblokir Dan Saya Tidak Dapat Mengakses Akun Saya, Jika Saya Melakukan Kesalahan, Saya Meminta Maaf Atas Kesalahan Saya, Saya Telah Melakukan Reset Tapi Akun WhatsApp Saya Belum Juga Bisa Di Akses, Saya Sangat Menghormati Atas Pelanggaran Yang Di Beri, Dan Saya Sekarang Mengerti Bahwa Pentingnya Mematuhi Ketentuan Layanan WhatsApp, Karena Jika Tidak Mematuhi Ketentuan Layanan WhatsApp Maka Akan Berpengaruh Pada Akun WhatsApp Yang Saya Gunakan, Saya Dengan Hormat Meminta Kesempatan Untuk Memperbaiki Kesalahan Saya Dan Saya Akan Mematuhi Ketentuan Layanan WhatsApp Pada Masa Yang Mendatang, Saya Mohon Untuk Memulihkan Akun WhatsApp Saya Kembali Agar Dapat Di Akses Kembali, Akun WhatsApp Saya  ${phone}`;
 
 // Koleksi Headers dari berbagai browser dan device
